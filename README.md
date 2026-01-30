@@ -1,4 +1,4 @@
-## UWU
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/475eb095746151.5e9ecde695f7a.gif" ancho="100%" />
 
 <!--
 **KatzuS2/KatzuS2** es un repositorio ✨ _special_ ✨ porque su `README.md` (este archivo) parece en su perfil de GitHub.
