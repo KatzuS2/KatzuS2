@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,go,rust,python,aws,graphql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,html,php,flutter,python,aws,vscode,dart,kali,bash,graphql&theme=dark" />
 </p>
 
 
