@@ -1,4 +1,8 @@
-<h1 align="center">UWU</h1>
+![%E2%99%A1](https://readme-typing-svg.demolab.com?lines=%E2%99%A1&color=FF69B4)
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&size=42&pause=800&color=FF8DC7&center=true&width=250&lines=UwU;UwU~;UwU%E2%99%A1" />
+</div>
 
 ###
 
