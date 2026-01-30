@@ -2,45 +2,46 @@
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&size=42&pause=800&color=FF8DC7&center=true&width=250&lines=UwU;UwU~;UwU%E2%99%A1" />
-</div>
+
+
+ ![typing](https://readme-typing-svg.demolab.com?font=Comic+Neue&size=18&pause=999999&color=8FDFFF&center=true&vCenter=true&width=560&lines=✧+creative+dev+·+always+learning+·+building+cute+things+♥+✧)
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,go,rust,python,aws,graphql&theme=dark" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://twitter.com">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/>
+  </a>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord"/>
+  </a>
+</p>
+
+
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
 
 ###
 
 ###
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00FF88&center=true&lines=Loading..." />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=999999&color=00FF7F&center=true&vCenter=true&width=200&lines=Loading_;Loading" />
+</p>
+
+
+
 
 
