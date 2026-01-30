@@ -2,3 +2,8 @@
  
   ![Escribiendo SVG](https://readme-typing-svg.demolab.com?lines=Flutter+Dev;UI+Lover;Always+Learning)
 
+  <div align="center">
+  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/barra-de-carga-10471780-8443710.gif" width="300"/>
+</div>
+
+
