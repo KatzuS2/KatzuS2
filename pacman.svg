@@ -1,0 +1,47 @@
+<div align="center">
+
+<svg width="320" height="60" viewBox="0 0 320 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- PACMAN -->
+  <circle cx="30" cy="30" r="18" fill="#FFD700">
+    <animate attributeName="r" values="18;18;18" dur="1s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- MOUTH -->
+  <polygon points="30,30 48,22 48,38" fill="#0e1a14">
+    <animate
+      attributeName="points"
+      dur="0.4s"
+      repeatCount="indefinite"
+      values="
+      30,30 48,22 48,38;
+      30,30 48,30 48,30;
+      30,30 48,22 48,38
+      " />
+  </polygon>
+
+  <!-- DOTS -->
+  <circle cx="70" cy="30" r="3" fill="#5DFF9A"/>
+  <circle cx="90" cy="30" r="3" fill="#5DFF9A"/>
+  <circle cx="110" cy="30" r="3" fill="#5DFF9A"/>
+
+  <!-- GHOSTS -->
+  <g transform="translate(150,15)">
+    <rect width="20" height="30" rx="10" fill="#FF4D4D"/>
+    <circle cx="6" cy="12" r="3" fill="#fff"/>
+    <circle cx="14" cy="12" r="3" fill="#fff"/>
+  </g>
+
+  <g transform="translate(190,15)">
+    <rect width="20" height="30" rx="10" fill="#4D9DFF"/>
+    <circle cx="6" cy="12" r="3" fill="#fff"/>
+    <circle cx="14" cy="12" r="3" fill="#fff"/>
+  </g>
+
+  <g transform="translate(230,15)">
+    <rect width="20" height="30" rx="10" fill="#FFB84D"/>
+    <circle cx="6" cy="12" r="3" fill="#fff"/>
+    <circle cx="14" cy="12" r="3" fill="#fff"/>
+  </g>
+</svg>
+
+</div>
